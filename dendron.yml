@@ -13,7 +13,7 @@ site:
         - root
     siteRootDir: docs
     usePrettyRefs: true
-    title: Dendron
+    title: texdeck
     description: Personal knowledge space
     siteLastModified: true
     gh_edit_branch: main
@@ -21,6 +21,8 @@ site:
         action: useVault
         payload:
             - vault
+    siteUrl: https://texdeck.net
+    githubCname: www.texdeck.net
 commands:
     lookup:
         note:

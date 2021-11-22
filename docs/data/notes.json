@@ -1,0 +1,949 @@
+{
+  "notes": {
+    "403": {
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "403",
+      "updated": 1637584231020,
+      "created": 1637584231020,
+      "parent": null,
+      "children": [],
+      "data": {}
+    },
+    "95023f0e-1680-485f-a244-7e58b4ea9859": {
+      "id": "95023f0e-1680-485f-a244-7e58b4ea9859",
+      "title": "Introduction",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "95023f0e-1680-485f-a244-7e58b4ea9859",
+            "vaultName": "texdeck-scratch"
+          },
+          "value": "case study",
+          "alias": "case study",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 260
+            },
+            "end": {
+              "line": 10,
+              "column": 17,
+              "offset": 274
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "case study"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "95023f0e-1680-485f-a244-7e58b4ea9859",
+            "vaultName": "texdeck-scratch"
+          },
+          "value": "case study.1 motivation",
+          "alias": "case study.1 motivation",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 7,
+              "offset": 536
+            },
+            "end": {
+              "line": 12,
+              "column": 34,
+              "offset": 563
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "case study.1 motivation"
+          }
+        }
+      ],
+      "anchors": {
+        "introduction-to-tex-decks": {
+          "type": "header",
+          "text": "Introduction to Tex Decks!",
+          "value": "introduction-to-tex-decks",
+          "line": 10,
+          "column": 0
+        },
+        "how-does-the-system-work": {
+          "type": "header",
+          "text": "How does the system work?",
+          "value": "how-does-the-system-work",
+          "line": 20,
+          "column": 0
+        },
+        "intellectual-property": {
+          "type": "header",
+          "text": "Intellectual Property",
+          "value": "intellectual-property",
+          "line": 24,
+          "column": 0
+        }
+      },
+      "fname": "root",
+      "updated": 1637540340272,
+      "created": 1606531542260,
+      "parent": null,
+      "children": [
+        "bdbb6e79-f589-4094-8a2d-fe6d08feba28",
+        "961f53d7-9570-45d8-82c7-ff0fddcdabf6",
+        "Jtqbzy5N6z73Li5EcS3g1"
+      ],
+      "data": {},
+      "contentHash": "2c8a5ea2aecacfb78483a8ff30772e62",
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      }
+    },
+    "Jtqbzy5N6z73Li5EcS3g1": {
+      "id": "Jtqbzy5N6z73Li5EcS3g1",
+      "title": "Citekey",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey",
+      "updated": 1637529196464,
+      "created": 1637528711132,
+      "parent": "95023f0e-1680-485f-a244-7e58b4ea9859",
+      "children": [
+        "id8lMs7HZjofrrkXXyw6a"
+      ],
+      "data": {},
+      "contentHash": "fbafe8b88901bab5dd899f4b50fed2e4",
+      "custom": {}
+    },
+    "id8lMs7HZjofrrkXXyw6a": {
+      "id": "id8lMs7HZjofrrkXXyw6a",
+      "title": "8 333 Statistical Mechanics I Statistical Mechanics of Particles Fall 2013",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013",
+      "updated": 1637530017503,
+      "created": 1637530017503,
+      "parent": "Jtqbzy5N6z73Li5EcS3g1",
+      "children": [
+        "GPgIY1P3Zf3fH0J3PY4sN",
+        "I9AvI9DweOK4kIROxWEp2",
+        "vhEMuYAtGxi9cuVvBdMXS",
+        "kZBAkuyrXaR2IhLRnSzit",
+        "v5pPQ5obe1K4m94KJq80g",
+        "2vOCfmU15keVaREWoIBYv",
+        "MqYqthMjNgnNdkwI5jUDy",
+        "5whO10xoMZLnaxb7DvbwL",
+        "q7xt3CaWYZmY2aRhxxagz",
+        "BW9ABVlrl7Iixmd2UoYz4",
+        "AZB3Sw7Y5Z5sTKbCkc4GI",
+        "G4F5w0QSS9L4O7THyM4Rb",
+        "WrqKP8oOQaIz20vQq5fvU",
+        "3tUTvsVmlLyyPFHbYot4A",
+        "edU95t10hk8KJYzkF7JCN",
+        "M9YaRIvbIssCHfNR2znAZ",
+        "k54BBpSpHYhrp4kjV46EG",
+        "5ogmyLOcVT5IO4SrnFHeP"
+      ],
+      "data": {},
+      "contentHash": "92d216ea79f647bbef9a53dc63bdcb17",
+      "custom": {}
+    },
+    "5ogmyLOcVT5IO4SrnFHeP": {
+      "id": "5ogmyLOcVT5IO4SrnFHeP",
+      "title": "Lec26",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec26",
+      "updated": 1637530120233,
+      "created": 1637530120233,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "7b3b04ac73a3fef34ee6e07cb526ba9c",
+      "custom": {}
+    },
+    "k54BBpSpHYhrp4kjV46EG": {
+      "id": "k54BBpSpHYhrp4kjV46EG",
+      "title": "Lec25",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec25",
+      "updated": 1637530120233,
+      "created": 1637530120233,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "1ea98777f98c2817a849d669f0434b99",
+      "custom": {}
+    },
+    "M9YaRIvbIssCHfNR2znAZ": {
+      "id": "M9YaRIvbIssCHfNR2znAZ",
+      "title": "Lec24",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec24",
+      "updated": 1637530120232,
+      "created": 1637530120232,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "a6b427b8eb3fa9d8a506759d6ce0c14a",
+      "custom": {}
+    },
+    "edU95t10hk8KJYzkF7JCN": {
+      "id": "edU95t10hk8KJYzkF7JCN",
+      "title": "Lec23",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec23",
+      "updated": 1637530120232,
+      "created": 1637530120232,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "220bb3ee0a712504174ca4c47970b747",
+      "custom": {}
+    },
+    "3tUTvsVmlLyyPFHbYot4A": {
+      "id": "3tUTvsVmlLyyPFHbYot4A",
+      "title": "Lec22",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec22",
+      "updated": 1637530120232,
+      "created": 1637530120232,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "8f4b20ddb62dc56722c847dcff7948d9",
+      "custom": {}
+    },
+    "WrqKP8oOQaIz20vQq5fvU": {
+      "id": "WrqKP8oOQaIz20vQq5fvU",
+      "title": "Lec21",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec21",
+      "updated": 1637530120231,
+      "created": 1637530120231,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "7f6389c1de2797963a4e0e36d3d08ecc",
+      "custom": {}
+    },
+    "G4F5w0QSS9L4O7THyM4Rb": {
+      "id": "G4F5w0QSS9L4O7THyM4Rb",
+      "title": "Lec20",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec20",
+      "updated": 1637530120231,
+      "created": 1637530120231,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "de22ca3c602b227ad669e7d49e4465a2",
+      "custom": {}
+    },
+    "AZB3Sw7Y5Z5sTKbCkc4GI": {
+      "id": "AZB3Sw7Y5Z5sTKbCkc4GI",
+      "title": "Lec19",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec19",
+      "updated": 1637530120230,
+      "created": 1637530120230,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "759e25f44bc15c1a0d589f878367cb70",
+      "custom": {}
+    },
+    "BW9ABVlrl7Iixmd2UoYz4": {
+      "id": "BW9ABVlrl7Iixmd2UoYz4",
+      "title": "Lec18",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec18",
+      "updated": 1637530120229,
+      "created": 1637530120229,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "e6497c23f69851b1138f6ec00d325646",
+      "custom": {}
+    },
+    "q7xt3CaWYZmY2aRhxxagz": {
+      "id": "q7xt3CaWYZmY2aRhxxagz",
+      "title": "Lec17",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec17",
+      "updated": 1637530120229,
+      "created": 1637530120229,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "ae67b163f1edb351ee73d6fe79bc1504",
+      "custom": {}
+    },
+    "5whO10xoMZLnaxb7DvbwL": {
+      "id": "5whO10xoMZLnaxb7DvbwL",
+      "title": "Lec16",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec16",
+      "updated": 1637530120228,
+      "created": 1637530120228,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "2ea960a3cba69300854e442ae0ffc8d7",
+      "custom": {}
+    },
+    "MqYqthMjNgnNdkwI5jUDy": {
+      "id": "MqYqthMjNgnNdkwI5jUDy",
+      "title": "Lec15",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec15",
+      "updated": 1637530120228,
+      "created": 1637530120228,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "e638792e2c8eb32a84563ba86b5e08bb",
+      "custom": {}
+    },
+    "2vOCfmU15keVaREWoIBYv": {
+      "id": "2vOCfmU15keVaREWoIBYv",
+      "title": "Lec14",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec14",
+      "updated": 1637530120228,
+      "created": 1637530120228,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "e857b6cfa8a75d951e2e1456b6abd0a1",
+      "custom": {}
+    },
+    "v5pPQ5obe1K4m94KJq80g": {
+      "id": "v5pPQ5obe1K4m94KJq80g",
+      "title": "Lec13",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec13",
+      "updated": 1637530120227,
+      "created": 1637530120227,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "8642e0da376a3b88031a4c53cb60f88d",
+      "custom": {}
+    },
+    "kZBAkuyrXaR2IhLRnSzit": {
+      "id": "kZBAkuyrXaR2IhLRnSzit",
+      "title": "Lec12",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec12",
+      "updated": 1637530120226,
+      "created": 1637530120227,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "60f49ee8422ee40775545834a047fcc9",
+      "custom": {}
+    },
+    "vhEMuYAtGxi9cuVvBdMXS": {
+      "id": "vhEMuYAtGxi9cuVvBdMXS",
+      "title": "Lec11",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec11",
+      "updated": 1637530120226,
+      "created": 1637530120226,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "8ebbd1f33c441538c9c5267eb1b9dbef",
+      "custom": {}
+    },
+    "I9AvI9DweOK4kIROxWEp2": {
+      "id": "I9AvI9DweOK4kIROxWEp2",
+      "title": "Lec09",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec09",
+      "updated": 1637539305185,
+      "created": 1637530120235,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "70217d898e9e65a6f44bec3205193d01",
+      "custom": {}
+    },
+    "GPgIY1P3Zf3fH0J3PY4sN": {
+      "id": "GPgIY1P3Zf3fH0J3PY4sN",
+      "title": "Lec08",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "citekey.8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013.lec08",
+      "updated": 1637530120234,
+      "created": 1637530120234,
+      "parent": "id8lMs7HZjofrrkXXyw6a",
+      "children": [],
+      "data": {},
+      "contentHash": "d373f53b7fb05b187d126ef049a8aa6c",
+      "custom": {}
+    },
+    "961f53d7-9570-45d8-82c7-ff0fddcdabf6": {
+      "id": "961f53d7-9570-45d8-82c7-ff0fddcdabf6",
+      "title": "Case Study",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 260
+            },
+            "end": {
+              "line": 10,
+              "column": 17,
+              "offset": 274
+            },
+            "indent": []
+          },
+          "value": "case study"
+        }
+      ],
+      "anchors": {
+        "case-study": {
+          "type": "header",
+          "text": "Case Study",
+          "value": "case-study",
+          "line": 9,
+          "column": 0
+        }
+      },
+      "fname": "case study",
+      "updated": 1608477842764,
+      "created": 1608152804625,
+      "parent": "95023f0e-1680-485f-a244-7e58b4ea9859",
+      "children": [
+        "92d244f1-b2cf-4c15-a964-d0d08cfecaa6",
+        "c1d61f2f-0195-4d52-861f-fc1d32bb0c32",
+        "f992c9a3-d38e-40c0-a007-db1544c22993",
+        "d6226f72-caa7-46ab-84ed-e763b7f83547"
+      ],
+      "data": {},
+      "contentHash": "af8ba82f9bcf938060c609ac84c05c1f",
+      "custom": {}
+    },
+    "d6226f72-caa7-46ab-84ed-e763b7f83547": {
+      "id": "d6226f72-caa7-46ab-84ed-e763b7f83547",
+      "title": "4. Evaluation",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "evaluation": {
+          "type": "header",
+          "text": "Evaluation",
+          "value": "evaluation",
+          "line": 9,
+          "column": 0
+        }
+      },
+      "fname": "case study.4 evaluation",
+      "updated": 1608477903620,
+      "created": 1608152864152,
+      "parent": "961f53d7-9570-45d8-82c7-ff0fddcdabf6",
+      "children": [],
+      "data": {},
+      "contentHash": "64138c67f1ba82651f6653a1f6404836",
+      "custom": {}
+    },
+    "f992c9a3-d38e-40c0-a007-db1544c22993": {
+      "id": "f992c9a3-d38e-40c0-a007-db1544c22993",
+      "title": "3. Examples",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "examples": {
+          "type": "header",
+          "text": "Examples",
+          "value": "examples",
+          "line": 9,
+          "column": 0
+        }
+      },
+      "fname": "case study.3 examples",
+      "updated": 1608477861955,
+      "created": 1608152844026,
+      "parent": "961f53d7-9570-45d8-82c7-ff0fddcdabf6",
+      "children": [],
+      "data": {},
+      "contentHash": "dbca2de904e047abe3dc421d7ff8bdb6",
+      "custom": {}
+    },
+    "c1d61f2f-0195-4d52-861f-fc1d32bb0c32": {
+      "id": "c1d61f2f-0195-4d52-861f-fc1d32bb0c32",
+      "title": "2. Methods",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "methods": {
+          "type": "header",
+          "text": "Methods",
+          "value": "methods",
+          "line": 9,
+          "column": 0
+        }
+      },
+      "fname": "case study.2 methods",
+      "updated": 1608477853078,
+      "created": 1608152834210,
+      "parent": "961f53d7-9570-45d8-82c7-ff0fddcdabf6",
+      "children": [],
+      "data": {},
+      "contentHash": "8f145c07de706e89e279e8fa88cde781",
+      "custom": {}
+    },
+    "92d244f1-b2cf-4c15-a964-d0d08cfecaa6": {
+      "id": "92d244f1-b2cf-4c15-a964-d0d08cfecaa6",
+      "title": "1. Motivation",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 7,
+              "offset": 536
+            },
+            "end": {
+              "line": 12,
+              "column": 34,
+              "offset": 563
+            },
+            "indent": []
+          },
+          "value": "case study.1 motivation"
+        }
+      ],
+      "anchors": {
+        "case-study-motivation": {
+          "type": "header",
+          "text": "Case Study Motivation",
+          "value": "case-study-motivation",
+          "line": 9,
+          "column": 0
+        }
+      },
+      "fname": "case study.1 motivation",
+      "updated": 1608475340329,
+      "created": 1608152824882,
+      "parent": "961f53d7-9570-45d8-82c7-ff0fddcdabf6",
+      "children": [],
+      "data": {},
+      "contentHash": "77dabc7caec41e72302f5329da1c847b",
+      "custom": {}
+    },
+    "bdbb6e79-f589-4094-8a2d-fe6d08feba28": {
+      "id": "bdbb6e79-f589-4094-8a2d-fe6d08feba28",
+      "title": "Anki for active learning",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "Anki",
+      "updated": 1608496274748,
+      "created": 1608222126786,
+      "parent": "95023f0e-1680-485f-a244-7e58b4ea9859",
+      "children": [],
+      "data": {},
+      "contentHash": "12ae9e44a8289d7b26213adbba4bb406",
+      "custom": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "95023f0e-1680-485f-a244-7e58b4ea9859",
+      "title": "Introduction",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "95023f0e-1680-485f-a244-7e58b4ea9859",
+            "vaultName": "texdeck-scratch"
+          },
+          "value": "case study",
+          "alias": "case study",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 3,
+              "offset": 260
+            },
+            "end": {
+              "line": 10,
+              "column": 17,
+              "offset": 274
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "case study"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "95023f0e-1680-485f-a244-7e58b4ea9859",
+            "vaultName": "texdeck-scratch"
+          },
+          "value": "case study.1 motivation",
+          "alias": "case study.1 motivation",
+          "position": {
+            "start": {
+              "line": 12,
+              "column": 7,
+              "offset": 536
+            },
+            "end": {
+              "line": 12,
+              "column": 34,
+              "offset": 563
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "case study.1 motivation"
+          }
+        }
+      ],
+      "anchors": {
+        "introduction-to-tex-decks": {
+          "type": "header",
+          "text": "Introduction to Tex Decks!",
+          "value": "introduction-to-tex-decks",
+          "line": 10,
+          "column": 0
+        },
+        "how-does-the-system-work": {
+          "type": "header",
+          "text": "How does the system work?",
+          "value": "how-does-the-system-work",
+          "line": 20,
+          "column": 0
+        },
+        "intellectual-property": {
+          "type": "header",
+          "text": "Intellectual Property",
+          "value": "intellectual-property",
+          "line": 24,
+          "column": 0
+        }
+      },
+      "fname": "root",
+      "updated": 1637540340272,
+      "created": 1606531542260,
+      "parent": null,
+      "children": [
+        "bdbb6e79-f589-4094-8a2d-fe6d08feba28",
+        "961f53d7-9570-45d8-82c7-ff0fddcdabf6",
+        "Jtqbzy5N6z73Li5EcS3g1"
+      ],
+      "data": {},
+      "contentHash": "2c8a5ea2aecacfb78483a8ff30772e62",
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "body": "\n\r\n\r\n# Introduction to Tex Decks!\r\n\r\nTexDeck.net is a collection of resources assembled to make LaTeX rich flashcards easier to write, remix, and organize.\r\n\r\nThe effect: Low cost active learning, allowing one's knowledge of science to scale sustainably.\r\n\r\nA [[case study]] is in progress to seed the flashcard repository using a course in [nanoelectronics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-701-introduction-to-nanoelectronics-spring-2010/) from [OpenCourseWare](https://ocw.mit.edu/)\r\n\r\n((ref:[[case study.1 motivation]]))\r\n\r\n### How does the system work?\r\n\r\n....\r\n\r\n### Intellectual Property\r\n\r\nAll work is [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise specified at the top of a page. I cannot really enforce the attribution clause, but I do highly reccomend it. If you find these resources useful, consider sharing them with others.\r\n\r\nAlso, keep in mind that this is a work in progress and may contain errors. [Pull requests on these study resources](https://github.com/Stedag/ocwphy) are encouraged.\r\n\r\nDespite accumulating a good deal of notes as part of my B.S. I will not include any of school notes among these resources to honor copyright agreements with my department. Nonetheless I forsee monotonic aggregation of resources organized around OCW classes or open-access textbooks.\r\n\r\nFor any concerns regarding IP, open an issue on github.\r\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "95023f0e-1680-485f-a244-7e58b4ea9859",
+    "title": "Introduction",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "type": "note",
+    "desc": "",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "95023f0e-1680-485f-a244-7e58b4ea9859",
+          "vaultName": "texdeck-scratch"
+        },
+        "value": "case study",
+        "alias": "case study",
+        "position": {
+          "start": {
+            "line": 10,
+            "column": 3,
+            "offset": 260
+          },
+          "end": {
+            "line": 10,
+            "column": 17,
+            "offset": 274
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "case study"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "95023f0e-1680-485f-a244-7e58b4ea9859",
+          "vaultName": "texdeck-scratch"
+        },
+        "value": "case study.1 motivation",
+        "alias": "case study.1 motivation",
+        "position": {
+          "start": {
+            "line": 12,
+            "column": 7,
+            "offset": 536
+          },
+          "end": {
+            "line": 12,
+            "column": 34,
+            "offset": 563
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "case study.1 motivation"
+        }
+      }
+    ],
+    "anchors": {
+      "introduction-to-tex-decks": {
+        "type": "header",
+        "text": "Introduction to Tex Decks!",
+        "value": "introduction-to-tex-decks",
+        "line": 10,
+        "column": 0
+      },
+      "how-does-the-system-work": {
+        "type": "header",
+        "text": "How does the system work?",
+        "value": "how-does-the-system-work",
+        "line": 20,
+        "column": 0
+      },
+      "intellectual-property": {
+        "type": "header",
+        "text": "Intellectual Property",
+        "value": "intellectual-property",
+        "line": 24,
+        "column": 0
+      }
+    },
+    "fname": "root",
+    "updated": 1637540340272,
+    "created": 1606531542260,
+    "parent": null,
+    "children": [
+      "bdbb6e79-f589-4094-8a2d-fe6d08feba28",
+      "961f53d7-9570-45d8-82c7-ff0fddcdabf6",
+      "Jtqbzy5N6z73Li5EcS3g1"
+    ],
+    "data": {},
+    "contentHash": "2c8a5ea2aecacfb78483a8ff30772e62",
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "body": "\n\r\n\r\n# Introduction to Tex Decks!\r\n\r\nTexDeck.net is a collection of resources assembled to make LaTeX rich flashcards easier to write, remix, and organize.\r\n\r\nThe effect: Low cost active learning, allowing one's knowledge of science to scale sustainably.\r\n\r\nA [[case study]] is in progress to seed the flashcard repository using a course in [nanoelectronics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-701-introduction-to-nanoelectronics-spring-2010/) from [OpenCourseWare](https://ocw.mit.edu/)\r\n\r\n((ref:[[case study.1 motivation]]))\r\n\r\n### How does the system work?\r\n\r\n....\r\n\r\n### Intellectual Property\r\n\r\nAll work is [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise specified at the top of a page. I cannot really enforce the attribution clause, but I do highly reccomend it. If you find these resources useful, consider sharing them with others.\r\n\r\nAlso, keep in mind that this is a work in progress and may contain errors. [Pull requests on these study resources](https://github.com/Stedag/ocwphy) are encouraged.\r\n\r\nDespite accumulating a good deal of notes as part of my B.S. I will not include any of school notes among these resources to honor copyright agreements with my department. Nonetheless I forsee monotonic aggregation of resources organized around OCW classes or open-access textbooks.\r\n\r\nFor any concerns regarding IP, open an issue on github.\r\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}

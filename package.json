@@ -1,0 +1,23 @@
+{
+  "name": "texdeck-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stedag/texdeck-ws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stedag/texdeck-ws/issues"
+  },
+  "homepage": "https://github.com/stedag/texdeck-ws#readme",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.68.0"
+  }
+}
